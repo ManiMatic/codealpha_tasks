@@ -1,2 +1,1 @@
-# CodeAlpha-Data-Analytics-Projects
-
+# EDA-Projects
